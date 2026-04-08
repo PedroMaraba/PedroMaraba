@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ciências de dados
 - 🌱 I’m currently learning  python para análise de dados
 - 💞️ I’m looking to collaborate on projetos de análise de dados
-- 📫 How to reach me: (21) 97130-4714
+- 📫 How to reach me: (21) 97130-4714 | pedromaraba88@gmail.com
 - 😄 Pronouns: Ele
 - ⚡ Fun fact: Eu sempre quis engordar, mas quando finalmente consegui, percebi que a barriga veio no pacote e agora estou em missão de desfazer o negócio.
 
